@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Coutume_contemporaine_et_loi_ancienne_...Kovalevskij_Maksim_2bpt6k1182498b.pdf_page_1.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="2"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="467"
+                   VPOS="420"
+                   WIDTH="1447"
+                   HEIGHT="2114"
+                   ID="eSc_textblock_e25883ca"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="678 420 1914 432 1891 2534 467 2511 502 514 1262 499 689 488 678 420"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_1ec208bc"
+                    
+                    BASELINE="672 458 1748 476" 
+                    HPOS="666"
+                    VPOS="397"
+                    WIDTH="1082"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="672 458 672 397 1745 409 1748 476 1742 488 666 470"/></Shape>
+	    <String CONTENT="CHAP. II. RÉGIME DES BIENS CHEZ LES OSSÈTES."
+                    HPOS="666"
+                    VPOS="397"
+                    WIDTH="1082"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fbaaa788"
+                    
+                    BASELINE="1830 479 1906 473" 
+                    HPOS="1821"
+                    VPOS="412"
+                    WIDTH="87"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="1830 479 1821 418 1897 412 1906 473 1908 488 1870 508 1870 508 1870 508 1868 508 1868 508 1868 508 1865 508 1865 508 1862 508 1862 508 1824 494"/></Shape>
+	    <String CONTENT="91"
+                    HPOS="1821"
+                    VPOS="412"
+                    WIDTH="87"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bb96c6ec"
+                    
+                    BASELINE="502 552 1911 572" 
+                    HPOS="496"
+                    VPOS="494"
+                    WIDTH="1415"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="502 552 502 494 1911 511 1911 572 1906 587 496 567"/></Shape>
+	    <String CONTENT="et les coutumes des Celtes de l’Irlande. La prescription ac-"
+                    HPOS="496"
+                    VPOS="494"
+                    WIDTH="1415"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_284c280a"
+                    
+                    BASELINE="505 619 1911 643" 
+                    HPOS="499"
+                    VPOS="564"
+                    WIDTH="1412"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="505 619 505 564 1908 587 1911 643 1906 651 499 634"/></Shape>
+	    <String CONTENT="quisitive (usucapio) qui conduit à la propriété après un"
+                    HPOS="499"
+                    VPOS="564"
+                    WIDTH="1412"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b11b851e"
+                    
+                    BASELINE="505 684 1908 704" 
+                    HPOS="499"
+                    VPOS="628"
+                    WIDTH="1409"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="505 684 505 628 1906 648 1908 704 1903 724 499 695"/></Shape>
+	    <String CONTENT="certain laps de temps est aussi inconnue des Ossètes que la"
+                    HPOS="499"
+                    VPOS="628"
+                    WIDTH="1409"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fbb57093"
+                    
+                    BASELINE="505 751 1908 768" 
+                    HPOS="499"
+                    VPOS="695"
+                    WIDTH="1409"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="505 751 505 695 1906 713 1908 768 1903 786 499 771"/></Shape>
+	    <String CONTENT="prescription libératoire qui fait cesser tout droit d’action à"
+                    HPOS="499"
+                    VPOS="695"
+                    WIDTH="1409"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2b96f3d7"
+                    
+                    BASELINE="499 815 1906 836" 
+                    HPOS="494"
+                    VPOS="760"
+                    WIDTH="1412"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="499 815 499 760 1903 780 1906 836 1900 847 494 827"/></Shape>
+	    <String CONTENT="l’avènement d’un certain terme. Nous verrons dans le cha-"
+                    HPOS="494"
+                    VPOS="760"
+                    WIDTH="1412"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9de9bb73"
+                    
+                    BASELINE="499 879 1908 903" 
+                    HPOS="494"
+                    VPOS="824"
+                    WIDTH="1414"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="499 879 499 824 1908 836 1908 903 1903 912 494 900"/></Shape>
+	    <String CONTENT="pitre suivant que cette absence de la prescription marqua"
+                    HPOS="494"
+                    VPOS="824"
+                    WIDTH="1414"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ab9277e8"
+                    
+                    BASELINE="499 944 1906 961" 
+                    HPOS="494"
+                    VPOS="891"
+                    WIDTH="1412"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="499 944 499 891 1903 909 1906 961 1900 982 494 961"/></Shape>
+	    <String CONTENT="d’un cachet tout particulier le droit contractuel des Ossètes-"
+                    HPOS="494"
+                    VPOS="891"
+                    WIDTH="1412"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_19c88439"
+                    
+                    BASELINE="499 1011 1908 1031" 
+                    HPOS="494"
+                    VPOS="953"
+                    WIDTH="1414"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="499 1011 499 953 1906 973 1908 1031 1903 1040 494 1026"/></Shape>
+	    <String CONTENT="et donna naissance aux contrats sans terme. N’admettant"
+                    HPOS="494"
+                    VPOS="953"
+                    WIDTH="1414"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_20857265"
+                    
+                    BASELINE="499 1075 1900 1093" 
+                    HPOS="494"
+                    VPOS="1020"
+                    WIDTH="1406"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="499 1075 499 1020 1897 1037 1900 1093 1894 1113 494 1096"/></Shape>
+	    <String CONTENT="pas que la simple jouissance, quelle qu’en ait été la durée,"
+                    HPOS="494"
+                    VPOS="1020"
+                    WIDTH="1406"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ec95cee7"
+                    
+                    BASELINE="499 1140 1906 1157" 
+                    HPOS="494"
+                    VPOS="1087"
+                    WIDTH="1412"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="499 1140 499 1087 1903 1105 1906 1157 1900 1172 494 1163"/></Shape>
+	    <String CONTENT="puisse donner des droits à la propriété, la coutume ossé-"
+                    HPOS="494"
+                    VPOS="1087"
+                    WIDTH="1412"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3aa58c5c"
+                    
+                    BASELINE="499 1207 1903 1221" 
+                    HPOS="494"
+                    VPOS="1154"
+                    WIDTH="1409"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="499 1207 499 1154 1900 1169 1903 1221 1897 1242 494 1221"/></Shape>
+	    <String CONTENT="tienne ignore cette sauvegarde accordée à la possession"
+                    HPOS="494"
+                    VPOS="1154"
+                    WIDTH="1409"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_751e5216"
+                    
+                    BASELINE="496 1274 1903 1289" 
+                    HPOS="491"
+                    VPOS="1224"
+                    WIDTH="1412"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="496 1274 496 1224 1900 1239 1903 1289 1897 1303 491 1297"/></Shape>
+	    <String CONTENT="par l’ancien droit romain, sous forme d’une action spé-"
+                    HPOS="491"
+                    VPOS="1224"
+                    WIDTH="1412"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f68e128a"
+                    
+                    BASELINE="496 1338 1903 1356" 
+                    HPOS="491"
+                    VPOS="1286"
+                    WIDTH="1412"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="496 1338 496 1286 1900 1303 1903 1356 1897 1371 491 1353"/></Shape>
+	    <String CONTENT="ciale donnée par le préteur, et que le droit germanique du"
+                    HPOS="491"
+                    VPOS="1286"
+                    WIDTH="1412"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e69ef9a1"
+                    
+                    BASELINE="494 1400 1900 1420" 
+                    HPOS="488"
+                    VPOS="1344"
+                    WIDTH="1412"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="494 1400 494 1344 1897 1365 1900 1420 1894 1435 488 1414"/></Shape>
+	    <String CONTENT="moyen-âge désignait par le terme gewere. Le droit ossétien"
+                    HPOS="488"
+                    VPOS="1344"
+                    WIDTH="1412"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b29f6f22"
+                    
+                    BASELINE="496 1467 1900 1485" 
+                    HPOS="491"
+                    VPOS="1411"
+                    WIDTH="1409"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="496 1467 496 1411 1897 1429 1900 1485 1894 1496 491 1487"/></Shape>
+	    <String CONTENT="ne fait en général aucune distinction entre le droit de pro-"
+                    HPOS="491"
+                    VPOS="1411"
+                    WIDTH="1409"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_43b65fbf"
+                    
+                    BASELINE="494 1531 1900 1549" 
+                    HPOS="488"
+                    VPOS="1476"
+                    WIDTH="1412"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="494 1531 494 1476 1897 1493 1900 1549 1894 1561 488 1549"/></Shape>
+	    <String CONTENT="priété et celui de jouissance, il n’admet point la possibilité"
+                    HPOS="488"
+                    VPOS="1476"
+                    WIDTH="1412"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_816af381"
+                    
+                    BASELINE="494 1590 1900 1613" 
+                    HPOS="488"
+                    VPOS="1537"
+                    WIDTH="1412"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="494 1590 494 1537 1897 1561 1900 1613 1894 1628 488 1610"/></Shape>
+	    <String CONTENT="de les détacher l’un de l’autre. Ainsi, contrairement aux"
+                    HPOS="488"
+                    VPOS="1537"
+                    WIDTH="1412"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c327ccd8"
+                    
+                    BASELINE="491 1657 1897 1675" 
+                    HPOS="485"
+                    VPOS="1596"
+                    WIDTH="1412"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="491 1657 491 1596 1894 1622 1897 1675 1891 1689 485 1675"/></Shape>
+	    <String CONTENT="législations contemporaines, l’antichrèse ne transmet pas"
+                    HPOS="485"
+                    VPOS="1596"
+                    WIDTH="1412"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b0d8ec07"
+                    
+                    BASELINE="491 1721 1897 1739" 
+                    HPOS="485"
+                    VPOS="1666"
+                    WIDTH="1412"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="491 1721 491 1666 1894 1683 1897 1739 1891 1751 485 1733"/></Shape>
+	    <String CONTENT="au créancier un simple droit de jouissance, mais bien le"
+                    HPOS="485"
+                    VPOS="1666"
+                    WIDTH="1412"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0e2042a2"
+                    
+                    BASELINE="488 1786 1894 1803" 
+                    HPOS="482"
+                    VPOS="1730"
+                    WIDTH="1412"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="488 1786 488 1730 1891 1748 1894 1803 1888 1815 482 1797"/></Shape>
+	    <String CONTENT="droit de propriété, sur le sol qui est affecté à la garantie de"
+                    HPOS="482"
+                    VPOS="1730"
+                    WIDTH="1412"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_79f323dd"
+                    
+                    BASELINE="488 1850 1894 1868" 
+                    HPOS="482"
+                    VPOS="1797"
+                    WIDTH="1412"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="488 1850 488 1797 1891 1815 1894 1868 1888 1882 482 1865"/></Shape>
+	    <String CONTENT="sa créance. D’un autre côté, lorsqu’on donne une terre en"
+                    HPOS="482"
+                    VPOS="1797"
+                    WIDTH="1412"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f9907ca9"
+                    
+                    BASELINE="488 1917 1891 1935" 
+                    HPOS="482"
+                    VPOS="1862"
+                    WIDTH="1409"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="488 1917 488 1862 1888 1879 1891 1935 1885 1946 482 1935"/></Shape>
+	    <String CONTENT="métayage, le droit du preneur n’est pas protégé contre les"
+                    HPOS="482"
+                    VPOS="1862"
+                    WIDTH="1409"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_13d6ef4d"
+                    
+                    BASELINE="485 1982 1882 1999" 
+                    HPOS="479"
+                    VPOS="1923"
+                    WIDTH="1403"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="485 1982 485 1923 1879 1944 1882 1999 1876 2022 479 1996"/></Shape>
+	    <String CONTENT="tiers. La coutume ne reconnaît de droit qu’au propriétaire,"
+                    HPOS="479"
+                    VPOS="1923"
+                    WIDTH="1403"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dd74b203"
+                    
+                    BASELINE="482 2043 1891 2066" 
+                    HPOS="476"
+                    VPOS="1990"
+                    WIDTH="1415"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="482 2043 482 1990 1891 2014 1891 2066 1885 2081 476 2058"/></Shape>
+	    <String CONTENT="et lorsque la terre est aliénée, le métayage prend fin; le"
+                    HPOS="476"
+                    VPOS="1990"
+                    WIDTH="1415"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_59256d17"
+                    
+                    BASELINE="482 2110 1581 2122" 
+                    HPOS="476"
+                    VPOS="2058"
+                    WIDTH="1105"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="482 2110 482 2058 1578 2069 1581 2122 1575 2136 476 2125"/></Shape>
+	    <String CONTENT="métayer n’a aucune action contre l’acquéreur."
+                    HPOS="476"
+                    VPOS="2058"
+                    WIDTH="1105"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b075b340"
+                    
+                    BASELINE="537 2177 1891 2195" 
+                    HPOS="532"
+                    VPOS="2113"
+                    WIDTH="1359"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="537 2177 537 2113 1888 2136 1891 2195 1885 2207 532 2189"/></Shape>
+	    <String CONTENT="En Ossétie, la terre de labour et les prés forment seuls la"
+                    HPOS="532"
+                    VPOS="2113"
+                    WIDTH="1359"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bead4d19"
+                    
+                    BASELINE="479 2239 1888 2259" 
+                    HPOS="473"
+                    VPOS="2186"
+                    WIDTH="1415"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="479 2239 479 2186 1888 2207 1888 2259 1882 2271 473 2262"/></Shape>
+	    <String CONTENT="propriété du « feu, » de la communauté de famille. Il en"
+                    HPOS="473"
+                    VPOS="2186"
+                    WIDTH="1415"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3c473144"
+                    
+                    BASELINE="479 2306 1885 2324" 
+                    HPOS="473"
+                    VPOS="2250"
+                    WIDTH="1412"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="479 2306 479 2250 1882 2268 1885 2324 1879 2335 473 2318"/></Shape>
+	    <String CONTENT="était de même au moyen-ầge dans la plupart des pays de l’Eu-"
+                    HPOS="473"
+                    VPOS="2250"
+                    WIDTH="1412"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_43703385"
+                    
+                    BASELINE="479 2367 1888 2385" 
+                    HPOS="473"
+                    VPOS="2315"
+                    WIDTH="1415"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="479 2367 479 2315 1885 2332 1888 2385 1882 2400 473 2388"/></Shape>
+	    <String CONTENT="rope occidentale, et il en est encore ainsi de nos jours dans"
+                    HPOS="473"
+                    VPOS="2315"
+                    WIDTH="1415"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_41104781"
+                    
+                    BASELINE="479 2435 1885 2452" 
+                    HPOS="473"
+                    VPOS="2379"
+                    WIDTH="1412"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="479 2435 479 2379 1882 2400 1885 2452 1879 2473 473 2446"/></Shape>
+	    <String CONTENT="les gouvernements septentrionaux de la Russie. Les forêts"
+                    HPOS="473"
+                    VPOS="2379"
+                    WIDTH="1412"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_10bc5535"
+                    
+                    BASELINE="476 2496 1888 2516" 
+                    HPOS="470"
+                    VPOS="2440"
+                    WIDTH="1418"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="476 2496 476 2440 1885 2464 1888 2516 1882 2540 470 2519"/></Shape>
+	    <String CONTENT="et les steppes, qui fournissent le bois pour le chauffage et"
+                    HPOS="470"
+                    VPOS="2440"
+                    WIDTH="1418"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="479"
+                   VPOS="2584"
+                   WIDTH="1412"
+                   HEIGHT="266"
+                   ID="eSc_textblock_f2163949"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="479 2584 1879 2595 1891 2803 1622 2850 491 2838 479 2584"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_b0091e5c"
+                    
+                    BASELINE="476 2628 1879 2642" 
+                    HPOS="470"
+                    VPOS="2563"
+                    WIDTH="1409"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="476 2628 476 2563 1876 2581 1879 2642 1873 2660 470 2642"/></Shape>
+	    <String CONTENT="Code des russes) ne se contente pas de garder le silence quant au droit de pres-"
+                    HPOS="470"
+                    VPOS="2563"
+                    WIDTH="1409"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e983798c"
+                    
+                    BASELINE="476 2677 1876 2695" 
+                    HPOS="470"
+                    VPOS="2631"
+                    WIDTH="1406"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="476 2677 476 2631 1873 2648 1876 2695 1870 2709 470 2692"/></Shape>
+	    <String CONTENT="cription, mais il le rejette directement. Dans les monuments législatifs anté-"
+                    HPOS="470"
+                    VPOS="2631"
+                    WIDTH="1406"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a13a7fef"
+                    
+                    BASELINE="476 2724 1879 2742" 
+                    HPOS="470"
+                    VPOS="2674"
+                    WIDTH="1409"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="476 2724 476 2674 1876 2698 1879 2742 1873 2753 470 2736"/></Shape>
+	    <String CONTENT="rieurs au XVIe siècle nous ne trouvons aucune mention au sujet du droit de"
+                    HPOS="470"
+                    VPOS="2674"
+                    WIDTH="1409"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3e508876"
+                    
+                    BASELINE="476 2771 1879 2794" 
+                    HPOS="470"
+                    VPOS="2721"
+                    WIDTH="1409"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="476 2771 476 2721 1876 2747 1879 2794 1873 2812 470 2791"/></Shape>
+	    <String CONTENT="prescription. Voir Bélaïeff, Manière dont la societé et les lois russes"
+                    HPOS="470"
+                    VPOS="2721"
+                    WIDTH="1409"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bb8c05bb"
+                    
+                    BASELINE="488 2826 1622 2832" 
+                    HPOS="476"
+                    VPOS="2777"
+                    WIDTH="1146"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="488 2826 488 2777 1619 2785 1622 2832 1619 2891 1356 2891 1353 2888 1353 2888 1350 2888 1350 2888 1350 2888 1347 2888 1347 2888 1347 2885 1341 2879 1330 2870 1274 2870 1221 2876 1134 2888 1134 2888 1131 2888 1131 2888 1128 2888 1128 2888 1087 2873 1052 2859 827 2859 821 2864 800 2879 800 2882 800 2882 798 2882 798 2882 795 2882 795 2882 795 2882 792 2882 792 2882 792 2882 789 2882 789 2882 789 2882 751 2861 692 2885 692 2885 689 2885 689 2885 686 2885 686 2885 686 2885 684 2885 684 2885 681 2885 637 2859 517 2876 517 2876 514 2876 514 2876 514 2876 511 2876 511 2876 508 2876 508 2876 476 2853"/></Shape>
+	    <String CONTENT="ont conçu la prescription à différentes époques de l’histoire."
+                    HPOS="476"
+                    VPOS="2777"
+                    WIDTH="1146"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="245"
+                   VPOS="2537"
+                   WIDTH="32"
+                   HEIGHT="32"
+                   ID="eSc_textblock_f4c1bb6a"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="245 2537 266 2537 277 2557 245 2569 245 2537"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1391"
+                   VPOS="3449"
+                   WIDTH="968"
+                   HEIGHT="56"
+                   ID="eSc_textblock_37b7d908"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="1391 3449 2347 3449 2359 3493 1403 3505 1391 3449"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
