@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Coutume_contemporaine_et_loi_ancienne_...Kovalevskij_Maksim_bpt6k1182498b_lGDTMjR.pdf_page_10.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="4266"
+          HEIGHT="6521"
+          PHYSICAL_IMG_NR="7"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4266"
+                  HEIGHT="6521">
+        
+        <TextBlock HPOS="869"
+                   VPOS="804"
+                   WIDTH="2657"
+                   HEIGHT="1103"
+                   ID="eSc_textblock_44ecb38d"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="3222 869 3228 1021 3461 1021 3380 994 3380 891 3526 891 3526 1755 3200 1907 891 1820 869 978 1190 934 1282 804"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_7ab1cd19"
+                    
+                    BASELINE="3402 960 3512 970" 
+                    HPOS="3391"
+                    VPOS="869"
+                    WIDTH="119"
+                    HEIGHT="147">
+            <Shape><Polygon POINTS="3401 956 3401 869 3510 869 3510 967 3499 1016 3391 994"/></Shape>
+	    <String CONTENT="95"
+                    HPOS="3391"
+                    VPOS="869"
+                    WIDTH="119"
+                    HEIGHT="147"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e5298ebe"
+                    
+                    BASELINE="1206 880 3217 967" 
+                    HPOS="1195"
+                    VPOS="760"
+                    WIDTH="2022"
+                    HEIGHT="229">
+            <Shape><Polygon POINTS="1206 880 1206 766 1777 787 1787 782 1820 760 1825 760 1825 760 1825 760 1831 760 1831 760 1836 760 1836 760 1836 760 1842 760 1940 787 1972 798 1988 793 2027 771 2027 771 2027 771 2032 771 2032 771 2032 771 2037 771 2037 771 2043 771 2135 798 2146 798 2157 798 2206 777 2206 777 2211 777 2211 777 2217 777 2217 777 2217 777 2222 777 2222 777 2222 777 2228 777 2228 777 2249 798 2266 809 2331 804 2472 787 2472 787 2478 787 2478 787 2478 787 2483 787 2554 809 2608 831 3217 836 3217 967 3206 989 1195 902"/></Shape>
+	    <String CONTENT="CHAP. Il. RÉGIME DES BIENS CHEZ LES OSSÈTES."
+                    HPOS="1195"
+                    VPOS="760"
+                    WIDTH="2022"
+                    HEIGHT="229"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5b8455c9"
+                    
+                    BASELINE="869 1059 1527 1059 3526 1152" 
+                    HPOS="858"
+                    VPOS="929"
+                    WIDTH="2668"
+                    HEIGHT="244">
+            <Shape><Polygon POINTS="869 1059 869 929 3526 1027 3526 1152 3516 1173 858 1086"/></Shape>
+	    <String CONTENT="privée, servir à la création de grandes fortunes au détri-"
+                    HPOS="858"
+                    VPOS="929"
+                    WIDTH="2668"
+                    HEIGHT="244"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ef7eebc9"
+                    
+                    BASELINE="869 1173 1657 1190 3521 1277" 
+                    HPOS="858"
+                    VPOS="1070"
+                    WIDTH="2663"
+                    HEIGHT="228">
+            <Shape><Polygon POINTS="869 1173 869 1070 3521 1179 3521 1277 3510 1298 858 1190"/></Shape>
+	    <String CONTENT="ment des petites gens. Le grossbauer allemand, comme"
+                    HPOS="858"
+                    VPOS="1070"
+                    WIDTH="2663"
+                    HEIGHT="228"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1a405de7"
+                    
+                    BASELINE="869 1287 3516 1402" 
+                    HPOS="858"
+                    VPOS="1168"
+                    WIDTH="2658"
+                    HEIGHT="255">
+            <Shape><Polygon POINTS="869 1287 869 1168 3516 1304 3516 1402 3505 1423 858 1309"/></Shape>
+	    <String CONTENT="l’accapareur russe (le koulal), quoique nés dans des con-"
+                    HPOS="858"
+                    VPOS="1168"
+                    WIDTH="2658"
+                    HEIGHT="255"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0dc6dfa9"
+                    
+                    BASELINE="864 1412 3516 1521" 
+                    HPOS="853"
+                    VPOS="1293"
+                    WIDTH="2663"
+                    HEIGHT="250">
+            <Shape><Polygon POINTS="864 1412 858 1320 989 1293 989 1293 989 1293 994 1293 994 1293 999 1293 1130 1325 1249 1304 1249 1304 1249 1304 1255 1304 3516 1423 3516 1521 3505 1543 853 1434"/></Shape>
+	    <String CONTENT="ditions différentes, ne représentent pas moins le même"
+                    HPOS="853"
+                    VPOS="1293"
+                    WIDTH="2663"
+                    HEIGHT="250"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_58afb4ef"
+                    
+                    BASELINE="869 1543 1608 1559 3510 1651" 
+                    HPOS="858"
+                    VPOS="1418"
+                    WIDTH="2652"
+                    HEIGHT="266">
+            <Shape><Polygon POINTS="869 1543 869 1418 3510 1548 3510 1651 3499 1684 858 1570"/></Shape>
+	    <String CONTENT="type de paysan enrichi au détriment de ses voisins. Il suffit"
+                    HPOS="858"
+                    VPOS="1418"
+                    WIDTH="2652"
+                    HEIGHT="266"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ac66720b"
+                    
+                    BASELINE="858 1657 3499 1776" 
+                    HPOS="847"
+                    VPOS="1559"
+                    WIDTH="2652"
+                    HEIGHT="261">
+            <Shape><Polygon POINTS="858 1657 858 1559 3499 1679 3499 1776 3488 1820 847 1700"/></Shape>
+	    <String CONTENT="de séjourner quelque temps dans les aouls ossètes, pour se"
+                    HPOS="847"
+                    VPOS="1559"
+                    WIDTH="2652"
+                    HEIGHT="261"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1777d5e3"
+                    
+                    BASELINE="858 1782 3200 1885" 
+                    HPOS="842"
+                    VPOS="1679"
+                    WIDTH="2358"
+                    HEIGHT="277">
+            <Shape><Polygon POINTS="858 1782 858 1679 3200 1776 3200 1885 3189 1956 2581 1891 2505 1918 2467 1929 2461 1929 2461 1929 2461 1929 2456 1929 2456 1929 2450 1929 2450 1929 2396 1907 2315 1880 2146 1891 1972 1907 1967 1907 1967 1907 1967 1907 1961 1907 1853 1874 1825 1869 1815 1874 1728 1896 1722 1896 1722 1896 1717 1896 1717 1896 1717 1896 1532 1853 1472 1842 1456 1847 1412 1880 1407 1880 1407 1880 1407 1880 1402 1880 1402 1880 1396 1880 1233 1874 1233 1874 1233 1874 1228 1874 1092 1825 1081 1825 1076 1825 989 1847 983 1847 983 1847 978 1847 978 1847 978 1847 972 1847 842 1809"/></Shape>
+	    <String CONTENT="convaincre que ce tvpe est loin de leur être inconnu."
+                    HPOS="842"
+                    VPOS="1679"
+                    WIDTH="2358"
+                    HEIGHT="277"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
